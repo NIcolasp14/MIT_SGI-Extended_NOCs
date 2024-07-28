@@ -5,7 +5,12 @@ This project's goal is to extend the NOCs pipeline to create a 3D point cloud of
 * Pool (Average) the embeddings of the removed points into the seed point of their corresponding fragment
 
 For a more detailed overview of the project, read the following blog post:  
-[Extended NOCs](https://summergeometry.org/sgi2024/graph-based-optimal-transport-for-keypoint-matching-extended-nocs/)
+[Extended NOCs](https://summergeometry.org/sgi2024/graph-based-optimal-transport-for-keypoint-matching-extended-nocs/)  
+
+Tracking changes:
+* In model.py the functions: unmold, detect, predict we modified
+* The demo.py script is almost completely altered
+* In utils.py the function unmold_embeddings was added 
 
 ## Project setup
 #### Method 1
@@ -26,3 +31,11 @@ For a more detailed overview of the project, read the following blog post:
 
 #### Method 3: Google Colab
 If you use Google Colab, check the following file: https://colab.research.google.com/drive/1-HMHtLkjs8pYp6WlZ7pXSFLfNcxklBst?usp=sharing
+
+## Running the Project 
+* conda activate nocs
+* cd /path/to/demo.py
+* python demo.py]
+  
+## Contact
+For anything that comes up, do not hesitate to contact me: nicolaspigadas14@gmail.com
