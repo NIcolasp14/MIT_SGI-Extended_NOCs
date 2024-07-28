@@ -35,7 +35,7 @@ If you use Google Colab, check the following file: https://colab.research.google
 ## Running the Project 
 * conda activate nocs
 * cd /path/to/demo.py
-* python demo.py]
+* python demo.py
   
 ## Contact
 For anything that comes up, do not hesitate to contact me: nicolaspigadas14@gmail.com
