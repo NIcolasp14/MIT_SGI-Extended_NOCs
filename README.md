@@ -5,7 +5,7 @@ This project's goal is to extend the NOCs pipeline to create a 3D point cloud of
 * Pool (Average) the embeddings of the removed points into the seed point of their corresponding fragment
 
 For a more detailed overview of the project, read the following blog post:  
-[...](https://summergeometry.org/sgi2024/graph-based-optimal-transport-for-keypoint-matching-extended-nocs/)
+[Extended NOCs](https://summergeometry.org/sgi2024/graph-based-optimal-transport-for-keypoint-matching-extended-nocs/)
 
 ## Project setup
 #### Method 1
